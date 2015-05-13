@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="D:\NavigationDrawer\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0-f4f0d17568e6190938c6886859b38f3155fd85fd.jar"
+        jar="C:\Users\SANDIBIS\Downloads\adt-bundle-windows-x86_64-20140702\adt-bundle-windows-x86_64-20140702\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false" revision="21.1.1" sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67" />
+
+</pre-dex-items>
